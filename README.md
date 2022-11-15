@@ -1,4 +1,3 @@
-# Novi-Sad
 <html>
 <head>
 <title>Page Title</title>
